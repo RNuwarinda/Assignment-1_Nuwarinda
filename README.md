@@ -9,3 +9,11 @@ This project explores the automobile dataset to identify vehicle attributes asso
 - [Source dataset](./automobileEDA(2).csv) — input used by the notebook.
 
 Open the notebook from this folder and run its cells from top to bottom. It uses pandas, NumPy, and Matplotlib.
+
+## Installation
+```bash
+git clone https://github.com/RNuwarinda/Assignment-1_Nuwarinda.git
+
+pip install -r requirements.txt
+
+```
